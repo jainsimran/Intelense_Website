@@ -1,14 +1,15 @@
 {
-  "name": "bizpage",
+  "name": "intelense",
   "version": "1.0.0",
-  "description": "Thanks for downloading this theme!",
+  "description": "website",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "lite": "lite-server",
-    "start": "npm run lite"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "author": "Simran",
   "license": "ISC",
