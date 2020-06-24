@@ -8,8 +8,7 @@
   },
   "scripts": {
     "lite": "lite-server",
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "start": "npm run lite"
   },
   "author": "Simran",
   "license": "ISC",
